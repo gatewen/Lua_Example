@@ -1,0 +1,18 @@
+$#include "PlayerData.h"
+class PlayerData{
+	PlayerData();
+	~PlayerData();
+	void setName(char* _name);
+	const char* getName();
+	void setEnergy(int _energy);
+	int getEnergy();
+};
+
+
+
+
+
+
+
+
+

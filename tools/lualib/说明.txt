@@ -1,0 +1,6 @@
+lua5.1.4类库和tolua++1.0.93类库及工具打包
+使用CodeBlocks 8.02 gcc 3.4.5编译的
+lua 5.1.4
+tolua++ 1.0.93
+文件列表
+liblua.a,libtolua++.a,lua51.dll,lua.exe,luac.exe,tolua++.exe
